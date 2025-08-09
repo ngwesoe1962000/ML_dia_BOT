@@ -1,4 +1,4 @@
-BOT_TOKEN = "7661270508:AAEwybgFnqXZI8EmMmYQ403KMdp85mqvE38"
+BOT_TOKEN = "bot_token_here"
 ADMIN_ID = 7726563139
 ADMIN_USERNAME = "@T7sensai"
 ORDER_CHANNEL = "@orderchannelkakashi"
