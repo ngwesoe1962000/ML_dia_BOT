@@ -1,0 +1,5 @@
+BOT_TOKEN = "7661270508:AAEwybgFnqXZI8EmMmYQ403KMdp85mqvE38"
+ADMIN_ID = 7726563139
+ADMIN_USERNAME = "@T7sensai"
+ORDER_CHANNEL = "@orderchannelkakashi"
+PAYMENT_INFO = "KBZ Pay / Wave Pay / AYA Pay - 09440823954 (Ngwe Oak Soe)"
